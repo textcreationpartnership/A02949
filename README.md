@@ -36,134 +36,142 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The edict or proclamation set forthe by the Frenche Kinge vpon the pacifying of the troubles in Frau
+
 #####Body#####
 
-1. I.
+1. THE KINGES
+EDICT VPON THE
+pacification of the troubles of his
+Realme, containing the order vvhich
+his Maiestie purposeth and intendeth
+to haue kept for the maintenance
+of the same.
 
-1. II.
+    _ I.
 
-1. III.
+    _ II.
 
-1. IIII.
+    _ III.
 
-1. V.
+    _ IIII.
 
-1. VI.
+    _ V.
 
-1. VII.
+    _ VI.
 
-1. VIII.
+    _ VII.
 
-1. IX.
+    _ VIII.
 
-1. X.
+    _ IX.
 
-1. XI.
+    _ X.
 
-1. XII.
+    _ XI.
 
-1. XIII.
+    _ XII.
 
-1. XIIII.
+    _ XIII.
 
-1. XV.
+    _ XIIII.
 
-1. XVI.
+    _ XV.
 
-1. XVII.
+    _ XVI.
 
-1. XVIII.
+    _ XVII.
 
-1. XIX.
+    _ XVIII.
 
-1. XX.
+    _ XIX.
 
-1. XXI.
+    _ XX.
 
-1. XXII.
+    _ XXI.
 
-1. XXIII.
+    _ XXII.
 
-1. XXIIII.
+    _ XXIII.
 
-1. XXV.
+    _ XXIIII.
 
-1. XXVI.
+    _ XXV.
 
-1. XXVII.
+    _ XXVI.
 
-1. XXVIII.
+    _ XXVII.
 
-1. XXIX.
+    _ XXVIII.
 
-1. XXX.
+    _ XXIX.
 
-1. XXXI.
+    _ XXX.
 
-1. XXXII.
+    _ XXXI.
 
-1. XXXIIII.
+    _ XXXII.
 
-1. XXXIIII.
+    _ XXXIIII.
 
-1. XXXV.
+    _ XXXIIII.
 
-1. XXXVI.
+    _ XXXV.
 
-1. XXXVII.
+    _ XXXVI.
 
-1. XXXVIII.
+    _ XXXVII.
 
-1. XXXIX.
+    _ XXXVIII.
 
-1. XL.
+    _ XXXIX.
 
-1. XL.
+    _ XL.
 
-1. XLII.
+    _ XL.
 
-1. XLIII.
+    _ XLII.
 
-1. XLIIII.
+    _ XLIII.
 
-1. XLV.
+    _ XLIIII.
 
-1. XLVI.
+    _ XLV.
 
-1. XLVII.
+    _ XLVI.
 
-1. XLVIII.
+    _ XLVII.
 
-1. XLIX.
+    _ XLVIII.
 
-1. L.
+    _ XLIX.
 
-1. LI.
+    _ L.
 
-1. LII.
+    _ LI.
 
-1. LIII.
+    _ LII.
 
-1. LIIII.
+    _ LIII.
 
-1. LV.
+    _ LIIII.
 
-1. LVI.
+    _ LV.
 
-1. LVII.
+    _ LVI.
 
-1. LVIII.
+    _ LVII.
 
-1. LIX.
+    _ LVIII.
 
-1. LX.
+    _ LIX.
 
-1. LXI.
+    _ LX.
 
-1. LXII.
+    _ LXI.
 
-1. LXIII.
+    _ LXII.
+
+    _ LXIII.
 And somevvhat beneath, By the King being
 in his Counsell.FIZES.And on the side.Visa.And sealed vpon 
 **Types of content**
